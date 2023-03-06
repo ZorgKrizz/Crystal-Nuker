@@ -2,7 +2,7 @@
 
 **Easy To Use Light-Weight Discord Server Nuker With The Only Necessary Commands**
 
-###Choices###
+### Choices
 - Scrape
 - Ban Members
 - Delete Channels
